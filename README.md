@@ -1,38 +1,52 @@
+# Abhinav Jha
+
+**Software Development Engineer | Backend Developer | Computer Science Undergraduate**
+
+Building scalable backend systems, cloud-native applications, and developer tools.
+
+---
+
 ## About
 
-Computer Science undergraduate with interests in backend engineering, scalable systems, cloud computing, and software architecture. Passionate about building reliable, maintainable software and solving complex engineering problems.
+Computer Science undergraduate with a strong foundation in software engineering and backend development. Interested in distributed systems, cloud computing, and designing reliable, scalable applications. Passionate about solving complex engineering problems through clean and efficient code.
 
 ---
 
 ## Technical Expertise
 
-### Languages
+**Languages**
+
 - Java
 - JavaScript
 - SQL
 
-### Backend
+**Backend**
+
 - Node.js
 - Express.js
 - REST APIs
 - GraphQL
 
-### Frontend
+**Frontend**
+
 - React
 
-### Databases
+**Databases**
+
 - PostgreSQL
 - MongoDB
 - TimescaleDB
 
-### Cloud & DevOps
+**Cloud & DevOps**
+
 - AWS
 - Git
 - GitHub
 - GitHub Actions
 - CI/CD
 
-### Computer Science
+**Computer Science**
+
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
@@ -44,18 +58,21 @@ Computer Science undergraduate with interests in backend engineering, scalable s
 ## Selected Projects
 
 ### Secure Chain
-Designed and developed a software supply chain security platform integrating REST and GraphQL services with PostgreSQL, TimescaleDB, and automated CI/CD workflows.
+
+Software supply chain security platform integrating REST and GraphQL services with PostgreSQL, TimescaleDB, and automated CI/CD workflows.
 
 ### Version Control CLI
-Implemented a Git-inspired version control system in Node.js supporting repository initialization, commits, branching, reverting, and remote synchronization.
+
+Git-inspired version control system built with Node.js featuring repository initialization, commits, branching, reverting, and remote synchronization.
 
 ### YouTube Transcript Summarizer
-Built an NLP-powered application that generates concise summaries from YouTube transcripts using Transformer models.
+
+NLP-powered application that generates concise summaries from YouTube transcripts using Transformer models.
 
 ---
 
-## Contact
+## Connect
 
-- GitHub: github.com/AbhinavJha2407
-- LinkedIn: linkedin.com/in/abhinav-jha-8859232ba
-- Email: abhinavjha7122004@gmail.com
+- **GitHub:** github.com/AbhinavJha2407
+- **LinkedIn:** linkedin.com/in/abhinav-jha-8859232ba
+- **Email:** abhinavjha7122004@gmail.com
