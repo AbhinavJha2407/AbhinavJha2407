@@ -54,17 +54,12 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavJha2407&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavJha2407&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💼 LinkedIn: *https://linkedin.com/in/abhinav-jha-8859232ba*
 - 📧 Email: **abhinavjha7122004@gmail.com**
 - 🐙 GitHub: **https://github.com/AbhinavJha2407**
 
