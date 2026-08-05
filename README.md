@@ -93,7 +93,7 @@ I enjoy building scalable web applications, backend systems, and developer tools
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/abhinav-jha-748466257/">
+  <a href="https://www.linkedin.com/in/abhinav-jha-8859232ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
