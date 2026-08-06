@@ -70,12 +70,6 @@ An NLP tool that turns long video transcripts into concise takeaways.
 - Built with **Flask** and **Hugging Face transformer models** for automatic summarization.
 - Fault-tolerant text extraction pipeline to reliably handle and format auto-generated captions.
 
----
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: [linkedin.com/in/abhinav-jha-8859232ba](https://www.linkedin.com/in/abhinav-jha-8859232ba)
-- 📧 Email: abhinavjha7122004@gmail.com
-- 🐙 GitHub: [github.com/abhinavjha](https://github.com/abhinavjha)
 
 <p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
