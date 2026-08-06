@@ -70,22 +70,7 @@ An NLP tool that turns long video transcripts into concise takeaways.
 - Built with **Flask** and **Hugging Face transformer models** for automatic summarization.
 - Fault-tolerant text extraction pipeline to reliably handle and format auto-generated captions.
 
----
 
-## 📜 Certifications
-
-- Data Structures and Algorithms (DSA) in Java
-- MERN Stack Certification — Apna College
-- AWS Certified AI Practitioner *(in progress)*
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavjha&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavjha&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
