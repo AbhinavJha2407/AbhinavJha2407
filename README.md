@@ -70,7 +70,7 @@ An NLP tool that turns long video transcripts into concise takeaways.
 - Built with **Flask** and **Hugging Face transformer models** for automatic summarization.
 - Fault-tolerant text extraction pipeline to reliably handle and format auto-generated captions.
 
-
+---
 
 ## 🌐 Connect With Me
 
